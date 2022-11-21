@@ -512,7 +512,6 @@ body {
     margin-left: 10px;
     color: var(--secondary-color);
     transition: 0.3s;
-    margin-top: 30px;
 
 }
 
@@ -583,7 +582,3 @@ body {
     color: rgb(0, 174, 255)
 }
 /* *********** */
-
-.icons {
-    display: block;
-}
